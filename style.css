@@ -1,0 +1,38 @@
+body{
+		background-color:black;
+}
+#container{
+	background: url('hogwarts.png');
+	width:1400px;
+	height: 700px;
+}
+#hero{
+	background: url('harrypotter.png');  /* these are css sprites */
+	 /* moves sprite images */
+	width: 45px; /* restricts width of the larger image */
+	height: 70px; /* restricts the height of the larger image */
+	position:absolute;
+}
+.enemy1{
+	background: url('ruhemici.png');
+	width:50px;
+	height:70px;
+	position:absolute;
+}
+.bullet{
+	background: url('bullet.gif');
+	background-position: -185px -400px;
+	width:18px;
+	height:18px;
+	position:absolute;
+}
+#score{
+	position:absolute;
+	border:10px solid red;
+	top:20px;
+	left:1200px;
+	background-color:white;
+	padding:10px;
+	font-size:30px;
+	font-family: Arial;	
+}
