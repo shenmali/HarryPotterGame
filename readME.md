@@ -11,8 +11,14 @@ Space tusu ile atis yapabilirsiniz. Ruh emicilere isabet eden her atis 10P deger
 iyi eglenceler...
 
 
+On site
+https://shenmali.github.io/HarryPotterGame/
 
 
-Kodlar asagidaki adresten alinmistir.
+
+
+
+
+Kodlar asagidaki adresten esinlenerek yazilmistir.
 
 https://github.com/twknab/js-1942
